@@ -1,0 +1,28 @@
+{
+  "name": "syntax-theme-boilerplate-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax Theme Boilerplate for Atom.",
+  "homepage": "https://atom.io/packages/syntax-theme-boilerplate-syntax",
+  "readme": "# Syntax Theme Boilerplate",
+  "readmeFilename": "readme.md",
+  "license": "MIT",
+  "main": "./lib/theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drootz/syntax-theme-boilerplate-syntax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drootz/syntax-theme-boilerplate-syntax/issues"
+  },
+  "engines": {
+    "atom": ">0.59.0"
+  },
+  "keywords": [
+    "syntax",
+    "theme",
+    "boilerplate",
+    "ng2",
+    "Angular"
+  ]
+}
