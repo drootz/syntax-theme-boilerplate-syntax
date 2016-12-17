@@ -4,11 +4,11 @@
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/drootz/syntax-theme-boilerplate-syntax/blob/master/LICENSE)
 [![Join the chat at https://gitter.im/tomorrow-night-eighties-angular/Lobby](https://badges.gitter.im/tomorrow-night-eighties-angular/Lobby.svg)](https://gitter.im/tomorrow-night-eighties-angular/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Atom syntax theme boilerplate with support for Angular 2 HTML syntax.
+My personal Atom syntax theme boilerplate with support for Angular 2 HTML syntax. Uses black, white and primary colors. Fork or clone this repo to customize your own theme.
 
 ## Feature
-- HTML tag brackets are same color as HTML tag name.
 - Angular 2 HTML syntax highlighting.
+- Dark and Light theme in the same package.
 
 ## Installation
 
@@ -20,17 +20,23 @@ Or, inside Atom's settings select Install and then search for this package.
 
 ## Dependencies
 
-For Angular 2 HTML syntax highlighting, the [language-html-angular](https://atom.io/packages/language-html-angular) package is required. (forked from Github's [language-html](https://atom.io/packages/language-html) package.
-
-To install this package, fire up a console and type:
-
-        apm install language-html-angular
-
-Or, inside Atom's settings select Install and then search for this package. Ensure to select the `HTML (n2)` file syntax rule.
+For Angular 2 HTML syntax highlighting, the [language-html-angular](https://atom.io/packages/language-html-angular) package is required.
 
 ## Usage
 
-Set the theme options in the package settings. The syntax highlighting rules will be applied on theme change, on editor refresh or on a new editor instance.
+Set the theme options in the package settings. The syntax highlighting rules will be applied on theme change, on editor reload or on a new editor instance.
+
+Works best with the [material-ui](https://atom.io/themes/material-ui) ui theme.
+
+## Themes
+
+### Dark
+
+![]()
+
+### Light
+
+![]()
 
 ***
 
