@@ -8,6 +8,9 @@ My personal Atom syntax theme boilerplate with support for Angular 2 HTML syntax
 <p data-height="370" data-theme-id="0" data-slug-hash="zoyjpz" data-default-tab="result" data-user="dracine" data-embed-version="2" data-pen-title="syntax-theme-boilerplate-syntax" class="codepen">See the Pen <a href="http://codepen.io/dracine/pen/zoyjpz/">syntax-theme-boilerplate-syntax</a> by Daniel Racine (<a href="http://codepen.io/dracine">@dracine</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
+![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_palette.png)
+
+
 ## Feature
 - Angular 2 HTML syntax highlighting.
 - Dark and Light theme in the same package.
