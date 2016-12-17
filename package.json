@@ -7,7 +7,7 @@
   "readme": "# Syntax Theme Boilerplate",
   "readmeFilename": "readme.md",
   "license": "MIT",
-  "main": "./lib/theme",
+  "main": "./lib/theme.coffee",
   "repository": {
     "type": "git",
     "url": "https://github.com/drootz/syntax-theme-boilerplate-syntax.git"
