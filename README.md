@@ -11,7 +11,7 @@ My personal Atom syntax theme boilerplate with support for Angular 2 HTML syntax
 ![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_palette.png)
 
 
-## Feature
+## Features
 - Angular 2 HTML syntax highlighting.
 - Dark and Light theme in the same package.
 
@@ -29,7 +29,7 @@ For Angular 2 HTML syntax highlighting, the [language-html-angular](https://atom
 
 ## Usage
 
-Set the theme options in the package settings. The syntax highlighting rules will be applied on theme change, on editor reload or on a new editor instance.
+Set the syntax theme options in the package settings. The syntax highlighting rules will be applied on theme change, on editor reload or on a new editor instance.
 
 Work best with the [material-ui](https://atom.io/themes/material-ui) ui theme.
 
