@@ -30,13 +30,13 @@ Works best with the [material-ui](https://atom.io/themes/material-ui) ui theme.
 
 ## Themes
 
-### Dark
+### Dark (default)
 
-![]()
+![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_dark.png)
 
 ### Light
 
-![]()
+![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_light.png)
 
 ***
 
