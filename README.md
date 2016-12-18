@@ -1,8 +1,8 @@
-# Syntax Theme Boilerplate for Atom.
+# Syntax Theme Boilerplate for Atom
 
 [![apm](https://img.shields.io/apm/v/syntax-theme-boilerplate-syntax.svg)](https://atom.io/packages/syntax-theme-boilerplate-syntax) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/drootz/syntax-theme-boilerplate-syntax/blob/master/LICENSE)
 
-My personal Atom syntax theme boilerplate with support for Angular 2 HTML syntax. Uses black, white and primary colors. Fork or clone this repo to customize your own theme.
+My personal Atom syntax theme boilerplate with support for Angular 2 HTML syntax. Uses black, white and primary colors. Fork or clone this repo to customize and build your own theme.
 
 ![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_palettes.png)
 
