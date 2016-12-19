@@ -6,7 +6,10 @@ My personal Atom syntax theme boilerplate with support for Angular 2 HTML syntax
 
 ![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_palettes.png)
 
-<p data-height="370" data-theme-id="0" data-slug-hash="zoyjpz" data-default-tab="result" data-user="dracine" data-embed-version="2" data-pen-title="syntax-theme-boilerplate-syntax" class="codepen">See the Pen <a href="http://codepen.io/dracine/pen/zoyjpz/">syntax-theme-boilerplate-syntax</a> by Daniel Racine (<a href="http://codepen.io/dracine">@dracine</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<iframe height='370' scrolling='no' title='Syntax Highlighting Palettes' src='//codepen.io/dracine/embed/zoyjpz/?height=365&theme-id=dark&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/dracine/pen/zoyjpz/'>Syntax Highlighting Palettes</a> by Daniel Racine (<a href='http://codepen.io/dracine'>@dracine</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
+
+<p data-height="370" data-theme-id="dark" data-slug-hash="zoyjpz" data-default-tab="result" data-user="dracine" data-embed-version="2" data-pen-title="Syntax Highlighting Palettes" class="codepen">See the Pen <a href="http://codepen.io/dracine/pen/zoyjpz/">Syntax Highlighting Palettes</a> by Daniel Racine (<a href="http://codepen.io/dracine">@dracine</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Features
