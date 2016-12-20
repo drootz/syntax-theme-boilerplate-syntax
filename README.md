@@ -4,7 +4,7 @@
 
 My personal Atom syntax theme boilerplate with support for Angular 2 HTML syntax. Uses black, white and primary colors. Fork or clone this repo to customize and build your own theme.
 
-![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_palettes.png)
+![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/preview-palettes.png)
 
 <p data-height="370" data-theme-id="dark" data-slug-hash="zoyjpz" data-default-tab="result" data-user="dracine" data-embed-version="2" data-pen-title="Syntax Highlighting Palettes" class="codepen">See the Pen <a href="http://codepen.io/dracine/pen/zoyjpz/">Syntax Highlighting Palettes</a> by Daniel Racine (<a href="http://codepen.io/dracine">@dracine</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
@@ -35,11 +35,11 @@ Work best with the [material-ui](https://atom.io/themes/material-ui) ui theme.
 
 ### Dark (default)
 
-![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_dark.png)
+![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/preview-dark.png)
 
 ### Light
 
-![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/boilerplate_light.png)
+![](https://raw.githubusercontent.com/drootz/syntax-theme-boilerplate-syntax/master/img/preview-light.png)
 
 ***
 
